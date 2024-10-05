@@ -17,8 +17,6 @@ and hypercubic topology with "supernodes" assisting topology maintenance.
 
 ## Credits
 
-This software was developed under the guidance of professor Tia Newhall, Swarthmore College.
-Permission to publish this material has been explicitly granted by the instructor.
 This program was co-authored with Xinyu Dong '24 and Derrick Zhen '24.
 
 ## License
