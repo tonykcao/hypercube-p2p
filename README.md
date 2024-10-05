@@ -6,7 +6,7 @@ topology. It is meant to examine logical hop count behavior, topology maintenanc
 and fault tolerance of such a network under an idealized environment (equal latency between nodes).
 
 ## Source code
-This software was developed for CS87 at Swarthmore College under the guidance of professor Tia Newhall, Swarthmore College. Permission to publish this material has been explicitly granted by the instructor.
+This software was developed for CS87 at Swarthmore College under the guidance of professor Tia Newhall. Permission to publish this material has been explicitly granted by the instructor.
 The source code has been redacted to remove material not developed by the authors.
 
 
