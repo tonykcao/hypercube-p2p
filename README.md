@@ -27,7 +27,7 @@ This program was co-authored with Xinyu Dong '24 and Derrick Zhen '24.
 
 ## License
 
-GPL
+See included license file.
 
 ---
 
